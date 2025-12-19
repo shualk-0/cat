@@ -1,0 +1,7 @@
+{
+  "name": "Paws & Words - Ebbinghaus CET-4 Learner",
+  "description": "A delightful vocabulary learning application themed with cats and dogs, utilizing the Ebbinghaus forgetting curve. Features AI-generated stories for context and visual aids for memory enhancement.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
